@@ -1,0 +1,17 @@
+{
+  "os": "macOS-26.1-arm64-arm-64bit",
+  "python": "CPython 3.12.7",
+  "startedAt": "2025-12-02T08:58:05.310443Z",
+  "program": "/Users/finnfreiheit/code/hpi/ahocv/Lab_2/notebooks/01_dataset_exploration.ipynb",
+  "codePath": "/Users/finnfreiheit/code/hpi/ahocv/Lab_2/notebooks/01_dataset_exploration.ipynb",
+  "codePathLocal": "01_dataset_exploration.ipynb",
+  "git": {
+    "remote": "git@github.com:FinnFreiheit/ahocv_lab2.git",
+    "commit": "335d65ba1bb30e5de6416d5dcfedc6d102643d72"
+  },
+  "email": "finn.owe.freiheit@gmail.com",
+  "root": "/Users/finnfreiheit/code/hpi/ahocv/Lab_2/notebooks",
+  "host": "Mac.fritz.box",
+  "executable": "/Users/finnfreiheit/code/hpi/ahocv/Lab_2/.venv_lab2/bin/python",
+  "writerId": "in7ix0u6x92dp7vsnvwputvl66wi5jd5"
+}

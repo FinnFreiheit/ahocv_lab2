@@ -1,0 +1,46 @@
+_wandb:
+    value:
+        cli_version: 0.23.0
+        e:
+            in7ix0u6x92dp7vsnvwputvl66wi5jd5:
+                codePath: /Users/finnfreiheit/code/hpi/ahocv/Lab_2/notebooks/01_dataset_exploration.ipynb
+                codePathLocal: 01_dataset_exploration.ipynb
+                email: finn.owe.freiheit@gmail.com
+                executable: /Users/finnfreiheit/code/hpi/ahocv/Lab_2/.venv_lab2/bin/python
+                git:
+                    commit: 335d65ba1bb30e5de6416d5dcfedc6d102643d72
+                    remote: git@github.com:FinnFreiheit/ahocv_lab2.git
+                host: Mac.fritz.box
+                os: macOS-26.1-arm64-arm-64bit
+                program: /Users/finnfreiheit/code/hpi/ahocv/Lab_2/notebooks/01_dataset_exploration.ipynb
+                python: CPython 3.12.7
+                root: /Users/finnfreiheit/code/hpi/ahocv/Lab_2/notebooks
+                startedAt: "2025-12-02T08:58:05.310443Z"
+                writerId: in7ix0u6x92dp7vsnvwputvl66wi5jd5
+        m: []
+        python_version: 3.12.7
+        t:
+            "1":
+                - 1
+                - 41
+            "2":
+                - 1
+                - 41
+            "3":
+                - 2
+                - 16
+            "4": 3.12.7
+            "5": 0.23.0
+            "8":
+                - 1
+                - 2
+            "12": 0.23.0
+            "13": darwin-arm64
+architecture:
+    value: CNN
+dataset:
+    value: CIFAR-100
+epochs:
+    value: 10
+learning_rate:
+    value: 0.02
